@@ -27,3 +27,4 @@
 /Users/Rashed/My Files/Projects/Github/BlazorServerApp/BlazorServerApp/obj/Debug/net8.0/BlazorServerApp.pdb
 /Users/Rashed/My Files/Projects/Github/BlazorServerApp/BlazorServerApp/obj/Debug/net8.0/BlazorServerApp.genruntimeconfig.cache
 /Users/Rashed/My Files/Projects/Github/BlazorServerApp/BlazorServerApp/obj/Debug/net8.0/ref/BlazorServerApp.dll
+/Users/Rashed/My Files/Projects/Github/BlazorServerApp/BlazorServerApp/obj/Debug/net8.0/BlazorServerApp.sourcelink.json
