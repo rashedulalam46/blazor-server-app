@@ -3,6 +3,19 @@
 A simple **Blazor Server** application using .NET 8.0.  
 This project demonstrates basic interactive UI components (counter example with increment and decrement), Razor components, and server-side rendering using Blazor.
 
+## ⚡ Key Feature of Blazor Server App
+
+- Runs on the server: Your C# code executes on the server.
+- Real-time UI updates: Uses a SignalR connection to send UI changes to the browser.
+- Pros:
+  - Smaller download size (no heavy WebAssembly payload).
+  - Faster initial load time.
+  - Access to server resources directly.
+
+- Cons:
+  - Requires constant server connection.
+  - More latency-sensitive.
+
 ---
 
 ## 📁 Repository Structure
