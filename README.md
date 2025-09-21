@@ -1,7 +1,6 @@
 # Blazor Server App
 
-A simple **Blazor Server** application using .NET 8.0.  
-This project demonstrates basic interactive UI components (counter example with increment and decrement), Razor components, and server-side rendering using Blazor.
+A simple **Blazor Server** application using .NET 8.0. This project demonstrates basic interactive UI components (counter example with increment and decrement), Razor components, and server-side rendering using Blazor. If you navigate from one page to another, you’ll notice that the page does not refresh. This is an important feature of Blazor applications.
 
 ## ⚡ Key Feature of Blazor Server App
 
