@@ -73,7 +73,4 @@ Specify your license here (MIT, Apache, etc.) or if you don’t have one, you mi
 Feel free to open issues or submit pull requests. For major changes, it’s best to open an issue first to discuss what you’d like to do.
 
 ## 🙋 Author
-
-Rashedul Alam
-
-GitHub Profile
+[Rashedul Alam](https://github.com/rashedulalam46)
